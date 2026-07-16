@@ -1,26 +1,17 @@
-# Project Title
+# The Cambrian Line
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+The Cambrian Line (Welsh: Llinell Cambria) is a railway from Shrewsbury (in Shropshire, England) to Welshpool, Aberystwyth and Pwllheli. 
 
 ## Simulation
 
-*This section describes the timetable*
+Presently, trains between Birmingham and the Cambrian Line run at an approximate two hour frequency usually consisting of two two-car units 
+which divide/combine at Machynlleth; one portion continuing to/from Pwllheli, the other to/from Aberystwyth.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+The timetable is fully tested, however please let me know of any bugs.
+The timetable is written to warn you when a train will need to have the next section cleared.
 
-## Development
+## Credits
 
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+Thanks to Albert Bell for his wonderful Simulator.
+Thanks to Ben Woodward for help with timetables.
+Thanks to Andy Greenland for his assistance with distances.
